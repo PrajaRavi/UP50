@@ -26,7 +26,7 @@ const practicals = [
     id: 'java',
     title: 'JAVA Practicals',
     subtitle: 'Object-Oriented Programming & Java Collections',
-    url: 'https://ik.imagekit.io/k5imwrh1hh/rag_documents/Merged_20261005_0737.pdf',
+    url: 'https://ik.imagekit.io/k5imwrh1hh/java%20practical%20list.pdf',
     icon: <Code2 className="w-8 h-8 text-amber-400 group-hover:scale-110 transition-transform duration-300" />,
     gradient: 'from-amber-500/20 via-orange-500/10 to-transparent',
     shadowColor: 'hover:shadow-amber-500/20',
